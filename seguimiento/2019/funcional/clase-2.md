@@ -13,6 +13,7 @@
 
 * [Apunte Guardas](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY)
 * [Apunte Composición (no leer aplicación parcial)](https://docs.google.com/document/d/1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU)
+* [Pattern Matching + Recursividad - Hasta la sección 5](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/)
 
 ## Ejercitación recomendada
 
