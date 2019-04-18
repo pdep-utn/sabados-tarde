@@ -9,7 +9,7 @@
 ## Lecturas recomendados
 
 * [Sistema de tipos - Sección 1, 2, 3](https://docs.google.com/document/d/1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
-* [Modelado Información - Tuplas](https://docs.google.com/document/d/1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
+* [Modelado Información - Tuplas (solo punto 3)](https://docs.google.com/document/d/11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI/edit#heading=h.x2xuqlkw85oe)
 
 ## Ejercitación recomendada
 
