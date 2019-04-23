@@ -8,10 +8,11 @@
 * Orden superior
 
 ## Lecturas recomendados
-
+* [Estructuras Complejas](https://docs.google.com/document/d/11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
 
 ## Ejercitación recomendada
-
+* [Guía Teorico-Practica - Mumuki - Leccion 8](https://mumuki.io/central/lessons/192-programacion-funcional-listas)
+* [Guía Practica - Mumuki - Leccion 9](https://mumuki.io/central/lessons/192-programacion-funcional-listas)
 
 ## Tarea clase siguiente
 
