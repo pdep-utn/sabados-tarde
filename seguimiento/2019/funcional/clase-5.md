@@ -11,6 +11,7 @@
 * [Estructuras Complejas](https://docs.google.com/document/d/11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
 
 ## Ejercitación recomendada
+* [Estructuras complejas - Ejercitación](https://docs.google.com/document/d/11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI/edit#heading=h.r1hxee7v5434)
 * [Guía Teorico-Practica - Mumuki - Leccion 8](https://mumuki.io/central/lessons/192-programacion-funcional-listas)
 * [Guía Practica - Mumuki - Leccion 9](https://mumuki.io/central/lessons/192-programacion-funcional-listas)
 
