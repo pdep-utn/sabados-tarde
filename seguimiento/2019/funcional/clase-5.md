@@ -9,6 +9,7 @@
 
 ## Lecturas recomendados
 * [Estructuras Complejas](https://docs.google.com/document/d/11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
+* [Orden superior - Listas](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit#): _map_, _filter_, _any_, _all_
 
 ## Ejercitación recomendada
 * [Estructuras complejas - Ejercitación](https://docs.google.com/document/d/11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI/edit#heading=h.r1hxee7v5434)
