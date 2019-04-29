@@ -7,3 +7,5 @@
 * Clase 3 - [Tipos y clases de tipos - estructuras tuplas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/funcional/clase-3.md)
 * Clase 4 - [Aplicación parcial y orden superior](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/funcional/clase-4.md)
 * Clase 5 - [Data, Listas y orden superior](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/funcional/clase-5.md)
+* Clase 6 - [Constructores de listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/funcional/clase-6.md)
+* Clase 7 - [Definiciones locales / Evaluación diferida](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/funcional/clase-7.md)
