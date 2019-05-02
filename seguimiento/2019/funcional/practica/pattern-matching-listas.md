@@ -1,7 +1,7 @@
 ## Pattern Matching Sobre Listas
 
 1. Hacer una función _tomarN :: Integer -> [a] -> [a]_ que dado un natural n y una lista
-l, devlevle los primeros n elementos de l. En caso de que l tenga menos de n elementos, la lista
+l, devuelve los primeros n elementos de l. En caso de que l tenga menos de n elementos, la lista
 devuelta debe contener todos los elementos de l. (no usar take)
 
 2. Hacer una función _sumaDeListas :: [Integer] -> [Integer] -> [Integer]_ que
