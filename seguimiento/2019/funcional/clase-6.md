@@ -11,6 +11,8 @@
 * [Orden superior - Listas: Ver implementación](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit#): _map_, _filter_, _any_, _all_
 
 ## Ejercitación recomendada
+* [Pattern matching sobre listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/funcional/practica/pattern-matching-listas.md)
+
 
 ## Tarea clase siguiente
 
