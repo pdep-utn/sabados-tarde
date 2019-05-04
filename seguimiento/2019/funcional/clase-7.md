@@ -15,7 +15,7 @@
 * [Otro apunte de fold](https://docs.google.com/document/d/1jSrU7lVMan4nbHBETGqvO5VpqJI0KXVWtH7fqnVASPU)
 
 ## Ejercitación recomendada
-* [Repaso clase anterior](https://create.kahoot.it/share/listas/062c6c48-e728-45ac-bd49-28cbf7f5a63e)
+* [Repaso clases anteriores (kahoot)](https://create.kahoot.it/share/listas/062c6c48-e728-45ac-bd49-28cbf7f5a63e)
 
 ## Tarea clase siguiente
 * [TP Grupal - Entrega #2](https://docs.google.com/document/d/19B1d4y0fEEB0TaD73_MwRbZFlTE7uOIdw65LQe8sGUc)
