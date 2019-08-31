@@ -2,8 +2,8 @@
 
 ## Qué vimos
 
-* functores
-* is
+* Tipos complejos - Functores: Sirven para representar un individuo que esta compuesto por otras partes. Podemos hacer pattern matching con ellos y usar polimorfismo! Así un tercero trata como iguales a distintos functores.
+* Unificación: Como hacemos para ligar el resultado de una expresión matemática a una variable? Con `is`!
 
 ## Lecturas recomendados
 

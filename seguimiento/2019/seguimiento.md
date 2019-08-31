@@ -13,4 +13,4 @@
 ## Logico
 * Clase 1 - [Predicados, Universo Cerrado, Tipos de Consultas e Inversibilidad](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/logico/clase-1.md)
 * Clase 2 - [not/2, forall/2](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/logico/clase-2.md)
-
+* Clase 3 - [Tipos complejos - Functores / Unificación](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/logico/clase-3.md)
