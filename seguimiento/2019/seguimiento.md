@@ -17,3 +17,8 @@
 * Clase 3 - [Tipos complejos - Functores / Unificación](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/logico/clase-3.md)
 * Clase 4 - [Tipos complejos - Listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/logico/clase-4.md)
 * Clase 5 - [Recursividad](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/logico/clase-5.md)
+
+## Paradigma de Objetos
+
+* Clase 1 - [Introducción a objetos - Envio de mensajes - Autoreferencia - Atributos](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/clase-1.md)
+* Clase 2 - [Polimorfismo - GIT](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/clase-2.md)
