@@ -1,6 +1,6 @@
 # TP 0
 
-- Crear un repositorio en GitHub y dar permisos a los integrantes del grupo + ayudante    
+- Crear un repositorio **por grupo** en GitHub y dar permisos a los integrantes del grupo + ayudante    
 - Crear un proyecto Wollok en el repositorio
 - Crear un objeto grupo que entienda el mensaje, integrantes(). Que debera responder el listado de integrantes como String, por ejemplo
 
