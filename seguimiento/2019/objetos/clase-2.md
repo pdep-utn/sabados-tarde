@@ -1,4 +1,4 @@
-# Objetos - Clase 1
+# Objetos - Clase 2
 
 ## Qué vimos
 
