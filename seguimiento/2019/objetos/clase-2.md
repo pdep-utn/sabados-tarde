@@ -16,4 +16,4 @@
 
 ## Tarea clase siguiente
 
-* Hacer la [entrega #0 del TP](https://i.ebayimg.com/images/g/bt8AAOSwHPlWb3b7/s-l1600.jpg)
+* Hacer la [entrega #0 del TP](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/trabajos/tp-0.md)
