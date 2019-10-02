@@ -23,3 +23,4 @@
 * Clase 1 - [Introducción a objetos - Envio de mensajes - Autoreferencia - Atributos](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/clase-1.md)
 * Clase 2 - [Polimorfismo - GIT](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/clase-2.md)
 * Clase 3 - [Colecciones - Testing](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/clase-3.md)
+* Clase 4 - [Clases](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/clase-4.md)
