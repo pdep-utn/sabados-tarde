@@ -8,7 +8,6 @@
 * [Ejemplo](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/ejemplos/clase-4) de polimorfismo con clases y WKO's
 * Definición de propiedades y cuando usarlas.
 
-
 ## Lecturas recomendados
 
 * [Clases](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk)

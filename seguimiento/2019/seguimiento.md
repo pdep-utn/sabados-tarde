@@ -24,3 +24,5 @@
 * Clase 2 - [Polimorfismo - GIT](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/clase-2.md)
 * Clase 3 - [Colecciones - Testing](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/clase-3.md)
 * Clase 4 - [Clases](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/clase-4.md)
+* Clase 5 - [Diagrama de clases - Herencia](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/clase-5.md)
+* Clase 6 - [Repaso - Manejo de errores](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/clase-6.md)
