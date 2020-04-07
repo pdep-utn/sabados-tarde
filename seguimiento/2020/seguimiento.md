@@ -4,7 +4,7 @@
 * [Clase de presentación](https://drive.google.com/file/d/1SYdqIeXrEjVTrnjgXpo1oPg2TUEhwa2e/view)
     * [Presentación utilizada](https://docs.google.com/presentation/d/1UbN-jkF9z7p662EErr4TDK7tCYoawaHQqoVIiyLTdZI/edit?usp=sharing)
 * [Link a Mumuki del curso](https://mumuki.io/pdep-utn/join/BR-gsg)
-* [Link a Discord](https://discord.gg/DJrT7W)
+* [Link a Discord](https://discord.gg/Vd95JSz)
 
 ## Paradigma Funcional
 
