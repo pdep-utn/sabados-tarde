@@ -5,6 +5,7 @@
     * [Presentación utilizada](https://docs.google.com/presentation/d/1UbN-jkF9z7p662EErr4TDK7tCYoawaHQqoVIiyLTdZI/edit?usp=sharing)
 * [Link a Mumuki del curso](https://mumuki.io/pdep-utn/join/BR-gsg)
 * [Link a Discord](https://discord.gg/Vd95JSz)
+* [Formulario Inscripción a la planilla](https://docs.google.com/forms/d/1HT3MManKPJX8YFwDXaZf-JHRIlYrGxK3kaI3tN_9Y6A)
 
 ## Paradigma Funcional
 
