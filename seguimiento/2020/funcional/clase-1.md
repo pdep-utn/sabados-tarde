@@ -26,7 +26,6 @@
 
 ## Para hacer durante la clase
 * Entrar a la conferencia les pasaremos el link por el canal #link-clases
-* [Guía teorica - Mumuki - Lección 1](https://mumuki.io/central/lessons/185-programacion-funcional-valores-y-funciones)
 * [Guía práctica - Mumuki - Lección 2](https://mumuki.io/central/lessons/224-programacion-funcional-practica-valores-y-funciones)
 * [Instalar el entorno de Haskell](http://www.pdep.com.ar/software/software-haskell)
 
