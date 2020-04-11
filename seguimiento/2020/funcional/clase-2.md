@@ -1,10 +1,7 @@
 # Funcional - Clase 2
 
-## Qué vimos
+## Qué vamos a ver?
 
-* Repaso de conceptos
-* Definición de constantes
-* Funciones como valores
 * Variable anónima
 * Guardas
 * Pattern Matching
