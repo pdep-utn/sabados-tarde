@@ -30,3 +30,5 @@
 * [Guía práctica - Mumuki - Lección 2](https://mumuki.io/central/lessons/224-programacion-funcional-practica-valores-y-funciones)
 * [Instalar el entorno de Haskell](http://www.pdep.com.ar/software/software-haskell)
 
+* [Video de clase - Parte 1](https://drive.google.com/open?id=1ZSOhn3rthpLbr5E-1X1CNcHtWDtZHGJR)
+* [Video de clase - Parte 2](https://drive.google.com/open?id=1bF9hRTovI3FCVDK9hPBvIk7Xwdyk-84c)
