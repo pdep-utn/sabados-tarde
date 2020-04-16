@@ -2,17 +2,34 @@
 
 ## Qué vamos a ver?
 
+* Repaso de conceptos
+    * Qué es una función y como de define?
+    * Qué es una variable?
+    * Composición de funciones
 * Variable anónima
 * Guardas
 * Pattern Matching
+* Tipado
 
-## Lecturas recomendados
+## Para hacer antes de clase
 
-* [Apunte Guardas](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY)
-* [Apunte Composición (no leer aplicación parcial)](https://docs.google.com/document/d/1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU)
-* [Pattern Matching + Recursividad - Hasta la sección 5](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/)
+### Instalar haskell
 
-## Ejercitación recomendada
+* Luego implementar las funciones que vimos en clase o alguna que hayan hecho en mumuki y probarlas
 
-* [Guia teorico/práctica - Mumuki - Lección 7 (hasta ejercicio 7 inclusive)](https://mumuki.io/central/exercises/1627-programacion-funcional-alternativas-guardas-y-patrones-variable-anonima)
-* [Guia teorico/práctica - Mumuki - Lección 3 (hasta ejercicio 6 inclusive)](https://mumuki.io/central/lessons/187-programacion-funcional-introduccion-a-los-tipos-de-datos)
+### Prácticar temas vistos
+
+* [Guía práctica - Mumuki - Valores y funciones](https://mumuki.io/pdep-utn/lessons/689-programacion-funcional-practica-valores-y-funciones)
+
+### Trabajar con Mumuki (recomendado)
+* [Guía teorica - Mumuki - Introducción a los tipos de datos](https://mumuki.io/pdep-utn/lessons/690-programacion-funcional-introduccion-a-los-tipos-de-datos)
+
+### Lecturas (recomendado)
+* [Solo guardas](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY)
+
+## Para hacer durante la clase
+* Entrar a la conferencia ya esta el link en el canal #link-clases
+* [Guía práctica - Mumuki - Inferencia de tipos](https://mumuki.io/pdep-utn/lessons/691-programacion-funcional-practica-de-inferencia-de-tipos)
+
+* [Video de clase - Parte 1]()
+* [Video de clase - Parte 2]()
