@@ -1,23 +1,19 @@
 # Funcional - Clase 3
 
-## Qué vimos
+## Qué vamos a aprender?
 
-* Definir tipos
-* Clases de tipos
+* Repaso de conceptos
+    * Tipado
+    * Guardas / Pattern Matching
 * Tuplas
+* Aplicación Parcial
 
-## Lecturas recomendados
+## Para hacer antes de clase
 
-* [Sistema de tipos - Sección 1, 2, 3](https://docs.google.com/document/d/1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
-* [Modelado Información - Tuplas (solo punto 3)](https://docs.google.com/document/d/11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI/edit#heading=h.x2xuqlkw85oe)
+### Prácticar temas vistos y aprender temas nuevos
 
-## Ejercitación recomendada
+* [Alternativas: Guardas y pattern matching](https://mumuki.io/pdep-utn/lessons/694-programacion-funcional-alternativas-guardas-y-patrones)
 
-* [Guía teorica - Mumuki - Lección 3 (desde el ejercicio 8)](https://mumuki.io/central/lessons/187-programacion-funcional-introduccion-a-los-tipos-de-datos)
+* [Guía teorica Mumuki - Hasta ejercicio 4 inclusive](https://mumuki.io/pdep-utn/lessons/692-programacion-funcional-aplicacion-parcial-y-orden-superior)
 
-* [Guía práctica - Mumuki - Lección 4](https://mumuki.io/central/lessons/188-programacion-funcional-practica-de-inferencia-de-tipos)
-
-## Tarea clase siguiente
-
-* Repasar
-* Imprimir la [guía de lenguajes](https://docs.google.com/document/d/1oJ-tyQJoBtJh0kFcsV9wSUpgpopjGtoyhJdPUdjFIJQ)
+* [Leer el apunte de aplicación parcial y composición](https://docs.google.com/document/d/1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU/edit)
