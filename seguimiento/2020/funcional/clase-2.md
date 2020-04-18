@@ -16,6 +16,7 @@
 ### Instalar haskell
 
 * Luego implementar las funciones que vimos en clase o alguna que hayan hecho en mumuki y probarlas
+    * [Instrucciones windows 10](https://github.com/pdep-utn/sabados-tarde/blob/master/instalaciones/ghci-windows-10.md)
 
 ### Prácticar temas vistos
 
