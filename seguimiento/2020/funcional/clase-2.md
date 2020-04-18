@@ -38,6 +38,6 @@
 
 * [Guía práctica - Mumuki - Inferencia de tipos](https://mumuki.io/pdep-utn/lessons/691-programacion-funcional-practica-de-inferencia-de-tipos)
 * [Contestar este form](https://docs.google.com/forms/d/e/1FAIpQLSdE0kz04pvxwz1U6J8UXL7bUTfgEDFyjozzxRe7suGvyRiJtA/viewform?usp=sf_link) para saber como venís con la cursada
-* [Para entregar - Individual](https://docs.google.com/forms/d/e/1FAIpQLSfELMAMFVSOLFMyg3I7ipqEmOqUIBYDD7Ho1wZIo8jlDjcHDg/viewform). Entregar el código de las funciones pedidas, tipando cada una de ellas y sus pruebas.
-* [Formulario Entrega]()
+* [Para entregar - Individual](https://docs.google.com/document/d/14FdoEE4n2tgCSyK05P3kHryxQobbg1iwXgOIKjvPnjs/edit?usp=drivesdk). Entregar el código de las funciones pedidas, tipando cada una de ellas y sus pruebas.
+* [Formulario Entrega](https://docs.google.com/forms/d/e/1FAIpQLSfELMAMFVSOLFMyg3I7ipqEmOqUIBYDD7Ho1wZIo8jlDjcHDg/viewform)
 * [Video de clase](https://drive.google.com/file/d/1i790_B-w9ZpiROd3HMeYjVS9sSOC7Xx_/view?usp=sharing)
