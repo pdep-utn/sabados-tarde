@@ -38,3 +38,6 @@
 * [Video de clase - Parte 1]()
 * [Video de clase - Parte 2]()
 * [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-2.hs)
+
+## Para hacer despues de la clase
+* [Contestar este form](https://docs.google.com/forms/d/e/1FAIpQLSevQ-NeAt2-om5HZ_zaqtIZH1Iqmagk19--VSGLTRpcmc3Xcw/viewform?usp=sf_link) para saber como venís con la cursada
