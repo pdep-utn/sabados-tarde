@@ -1,5 +1,3 @@
-main = undefined
-
 -- Constantes
 
 miPi = 3.14
@@ -35,7 +33,7 @@ alargarN longitud metrosAdicionales = longitud + metrosAdicionales
 -- cuadruple = 4 * x
 -- cuadruple = doble (doble n)   -- f[g(x)]
 -- cuadruple = (doble . doble)   -- (f . g) x
--- cuadruple = doble . doble
+cuadruple = doble . doble
 
 -- import Text.Show.Functions,  trucazo para poder mostrar las funciones por las consola
 
