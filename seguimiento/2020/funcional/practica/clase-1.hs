@@ -1,3 +1,4 @@
+main = undefined
 
 -- Constantes
 
@@ -40,4 +41,4 @@ alargarN longitud metrosAdicionales = longitud + metrosAdicionales
 
 -- sirveAlargandoUnPoco 
 -- sirveAlargandoUnPoco longitud = sirveCable . alargarUnPoco longitud
-sirveAlargandoUnPoco longitud = sirveCable . alargandoUnPoco
+sirveAlargandoUnPoco longitud = sirveCable . alargarUnPoco
