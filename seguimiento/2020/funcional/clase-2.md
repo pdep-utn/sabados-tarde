@@ -30,7 +30,10 @@
 ## Para hacer durante la clase
 * Entrar a la conferencia ya esta el link en el canal #link-clases
 * [Guía práctica - Mumuki - Inferencia de tipos](https://mumuki.io/pdep-utn/lessons/691-programacion-funcional-practica-de-inferencia-de-tipos)
-
+* [Presentación clase](https://docs.google.com/presentation/d/1zXZgOWFBwNcoiArdtT2m1dm5vzyDsVG5WSEpT63hWe8/edit?usp=sharing)
+* [Para entregar](https://docs.google.com/document/d/14FdoEE4n2tgCSyK05P3kHryxQobbg1iwXgOIKjvPnjs/edit?usp=drivesdk)
+* [Formulario Entrega]()
+* [Encuesta]()
 * [Video de clase - Parte 1]()
 * [Video de clase - Parte 2]()
 * [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-2.hs)
