@@ -1,12 +1,17 @@
 -- Constantes
-
+miPi :: Float 
 miPi = 3.14
 
 -- La longitud maxima de un cable
+largoMaximo :: Int
 largoMaximo = 100
+
+incrementar:: Int -> Int
+incrementar n = n + 1
 
 -- Función de un parametro
 -- identidad/1 (id/1 existe en haskell por default)
+identidad :: a -> a
 identidad x = x
 
 -- doble/1
@@ -20,7 +25,11 @@ sirveCable metros = metros < 100
 noSirveCable  = not . sirveCable
 
 -- Función de n parametros
+multiplica:: Num a => a -> a -> a 
 multiplica x y = x * y
+
+funcionLoca :: a -> a -> b -> b
+funcionLoca x y z = z
 
 -- cuentaLoca/2 recibe dos parametros los multiplica y les suma 2
 cuentaLoca x y = multiplica x y + 2
@@ -30,8 +39,8 @@ cuentaLoca x y = multiplica x y + 2
 alargarN longitud metrosAdicionales = longitud + metrosAdicionales
 
 -- Composición
--- cuadruple = 4 * x
--- cuadruple = doble (doble n)   -- f[g(x)]
+-- cuadruple x = 4 * x
+-- cuadruple n = doble (doble n)   -- f[g(x)]
 -- cuadruple = (doble . doble)   -- (f . g) x
 cuadruple = doble . doble
 
@@ -39,4 +48,6 @@ cuadruple = doble . doble
 
 -- sirveAlargandoUnPoco 
 -- sirveAlargandoUnPoco longitud = sirveCable . alargarUnPoco longitud
-sirveAlargandoUnPoco longitud = sirveCable . alargarUnPoco
+sirveAlargandoUnPoco:: Int -> Bool
+sirveAlargandoUnPoco = 
+    sirveCable . alargarUnPoco
