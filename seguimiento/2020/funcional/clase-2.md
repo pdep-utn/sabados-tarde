@@ -40,4 +40,4 @@
 * [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-2.hs)
 
 ## Para hacer despues de la clase
-* [Contestar este form](https://docs.google.com/forms/d/e/1FAIpQLSevQ-NeAt2-om5HZ_zaqtIZH1Iqmagk19--VSGLTRpcmc3Xcw/viewform?usp=sf_link) para saber como venís con la cursada
+* [Contestar este form](https://docs.google.com/forms/d/e/1FAIpQLSdE0kz04pvxwz1U6J8UXL7bUTfgEDFyjozzxRe7suGvyRiJtA/viewform?usp=sf_link) para saber como venís con la cursada
