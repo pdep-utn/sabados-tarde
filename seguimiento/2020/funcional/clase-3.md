@@ -16,4 +16,4 @@
 
 * [Guía teorica Mumuki - Hasta ejercicio 4 inclusive](https://mumuki.io/pdep-utn/lessons/692-programacion-funcional-aplicacion-parcial-y-orden-superior)
 
-* [Leer el apunte de aplicación parcial y composición](https://docs.google.com/document/d/1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU/edit)
+* [Leer el apunte de aplicación parcial y composición](https://docs.google.com/document/d/1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU/edit) o hacer la [guía de mumuki](https://mumuki.io/pdep-utn/lessons/692-programacion-funcional-aplicacion-parcial-y-orden-superior)
