@@ -30,6 +30,7 @@
 * [Link presentación](https://docs.google.com/presentation/d/1NOa7IewiOvNkmVwEx_frHrL62yygz27Bbt0wTKrwx7g/edit#slide=id.g723da62b61_0_0)
 * [Video de clase - Parte 1](https://drive.google.com/open?id=1ZSOhn3rthpLbr5E-1X1CNcHtWDtZHGJR)
 * [Video de clase - Parte 2](https://drive.google.com/open?id=1bF9hRTovI3FCVDK9hPBvIk7Xwdyk-84c)
+* [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-1.hs)
 
 ## Videos complementarios
 

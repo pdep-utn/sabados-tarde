@@ -33,3 +33,4 @@
 
 * [Video de clase - Parte 1]()
 * [Video de clase - Parte 2]()
+* [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-2.hs)
