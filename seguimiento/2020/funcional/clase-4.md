@@ -25,6 +25,6 @@
 
 * [Guía teorica - Mumuki - Tuplas (desde el ejercicio 10)](https://mumuki.io/pdep-utn/exercises/9269-programacion-funcional-alternativas-guardas-y-patrones-tuplas) _por si quedaron dudas_
 * [Guía teorica - Mumuki - Listas](https://mumuki.io/pdep-utn/lessons/695-programacion-funcional-listas)
-* [Enunciado TP Individual 2]()
+* [Enunciado TP Individual 2](https://docs.google.com/document/d/1rHut9mKKa3ABxQGyQ2teRbE6WRuytsGH_Y9wj-bBMb8)
 * [Formulario Entrega TP Individual 2]()
 * Tener en favoritos la [guía de lenguajes](https://docs.google.com/document/d/1oJ-tyQJoBtJh0kFcsV9wSUpgpopjGtoyhJdPUdjFIJQ)
