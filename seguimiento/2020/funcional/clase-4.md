@@ -1,20 +1,30 @@
-# Funcional - Clase 4
+# Funcional - Clase 3
 
-## Qué vimos
+## ¿Qué vamos a aprender?
 
-* Aplicación parcial
+* Tuplas
+* Data
 * Orden superior
 
-## Lecturas recomendados
+## Para hacer antes de clase
 
-* [Aplicación parcial](https://docs.google.com/document/d/1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU)
-* [Guía teorica - Mumuki - Lección 5](https://mumuki.io/central/lessons/189-programacion-funcional-aplicacion-parcial-y-orden-superior)
+### Prácticar temas vistos y aprender temas nuevos
 
-## Ejercitación recomendada
+* [Guía práctica - Mumuki - Práctica aplicación parcial](https://mumuki.io/pdep-utn/lessons/693-programacion-funcional-practica-aplicacion-parcial-y-orden-superior)
 
-* [Guía práctica - Mumuki - Lección 6](https://mumuki.io/central/lessons/190-programacion-funcional-practica-aplicacion-parcial-y-orden-superior)
+* [Guía teorica - Mumuki - Teoría Modelado](https://mumuki.io/pdep-utn/lessons/745-programacion-funcional-modelado)
 
-## Tarea clase siguiente
+## Para hacer durante la clase
 
-* [TP Grupal - Entrega 0](https://docs.google.com/document/d/1QK1QVcZDnHoCYhCz8pA4KteKhn7GHeRoNcXIJ9_nxog)
-* Imprimir la [guía de lenguajes](https://docs.google.com/document/d/1oJ-tyQJoBtJh0kFcsV9wSUpgpopjGtoyhJdPUdjFIJQ)
+* Entrar a la conferencia ya esta el link en el canal #link-clases
+* [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-4.hs)
+* [Video de clase - Parte 1]()
+* [Video de clase - Parte 2]()
+
+## Para hacer después de la clase
+
+* [Guía teorica - Mumuki - Tuplas (desde el ejercicio 10)](https://mumuki.io/pdep-utn/exercises/9269-programacion-funcional-alternativas-guardas-y-patrones-tuplas) _por si quedaron dudas_
+* [Guía teorica - Mumuki - Listas](https://mumuki.io/pdep-utn/lessons/695-programacion-funcional-listas)
+* [Enunciado TP Individual 2]()
+* [Formulario Entrega TP Individual 2]()
+* Tener en favoritos la [guía de lenguajes](https://docs.google.com/document/d/1oJ-tyQJoBtJh0kFcsV9wSUpgpopjGtoyhJdPUdjFIJQ)
