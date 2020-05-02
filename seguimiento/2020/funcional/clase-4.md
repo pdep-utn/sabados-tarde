@@ -1,4 +1,4 @@
-# Funcional - Clase 3
+# Funcional - Clase 4
 
 ## ¿Qué vamos a aprender?
 
