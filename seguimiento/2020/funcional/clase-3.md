@@ -1,6 +1,6 @@
 # Funcional - Clase 3
 
-## Qué vamos a aprender?
+## ¿Qué vamos a aprender?
 
 * Repaso de conceptos
     * Tipado

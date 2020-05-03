@@ -27,3 +27,22 @@ aplicar f n = f n
 
 -- https://mumuki.io/pdep-utn/lessons/745-programacion-funcional-modelado
 
+-- patente :: (String, Int, Int) -> String
+-- patente (unaPatente, _, _) = unaPatente
+
+data Auto = Auto {
+   patente :: String,
+   nivelNafta:: Int,
+   tamanioTanque :: Int
+} deriving Show
+
+
+cargarTanque :: Int  -> Auto -> Auto 
+cargarTanque cantidad auto =
+   auto {
+      nivelNafta = min (cantidad + nivelNafta auto) (tamanioTanque auto)
+   }
+
+
+estaVacio auto = (nivelNafta auto) == 0
+estaLleno auto = (nivelNafta auto) == (tamanioTanque auto)
