@@ -13,9 +13,8 @@
 * Clase 2 - [Funciones partidas y pattern matching - Tipos y clases de tipos](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-2.md)
 * Clase 3 - [Tuplas - Aplicación Parcial](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-3.md)
 * Clase 4 - [Aplicación Parcial - Tipos compuestos](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-4.md)
-<!--
-* Clase 5 - [Data, Listas y orden superior](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-5.md)
-* Clase 6 - [Constructores de listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-6.md)
+* Clase 5 - [Listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-5.md)
+<!--* Clase 6 - [Constructores de listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-6.md)
 * Clase 7 - [Definiciones locales / Evaluación diferida](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-7.md)
 
 ## Paradigma Lógico
