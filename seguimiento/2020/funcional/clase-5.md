@@ -24,11 +24,12 @@
 * [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-5.hs)
 * [Presentacion](https://docs.google.com/presentation/d/1u0gTKbLgFn4CxbjbN-XnpWKKfQgc7vDLo2__rZR7hBY/edit#slide=id.g84f5639649_0_1120)
 * [Continuación - Hora de lectura](https://bit.ly/2zmulUY)
-* [Video de clase - Parte 1]()
-* [Video de clase - Parte 2]()
+* [Video de clase - Parte 1](https://drive.google.com/file/d/1m4JhGrhPqRBypgttD9IBg_8-3XzoGw7t/view)
+* [Video de clase - Parte 2](https://drive.google.com/file/d/1dagiKyXnzolh4bFy4yuCyeIzEcHPFnST/view)
+* [Video de clase - Parte 3](https://drive.google.com/file/d/1UhIIppEX_P2QkDS9arbCRZZw9FBAwnk-/view)
 
 ## Para hacer después de la clase
 
 * [Guía práctica - Mumuki - Listas](https://mumuki.io/pdep-utn/lessons/695-programacion-funcional-listas)
 * [Repaso - Listas](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit#): _map_, _filter_, _any_, _all_
-* [Listas - Pattern Matching]()
+* [Listas - Pattern Matching](https://docs.google.com/document/d/11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI/edit#heading=h.cqu0iio54dpg) _Además hay repaso del resto de los temas, data de multiples constructores no hace falta leerlo_. Además tiene un ejercicio integrador.
