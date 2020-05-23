@@ -27,7 +27,8 @@
 
 * [Repasar Evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit#heading=h.t4n5o8teoj0i)
 * [Porque funciona la evaluación diferida](http://wiki.uqbar.org/wiki/articles/estrategias-de-evaluacion.html#tocAnchor-1-7)
-
+* [Práctica Mumuki - Evaluación diferida](https://mumuki.io/pdep-utn/lessons/746-programacion-funcional-practica-evaluacion-diferida)
+* [Práctica Mumuki - Fold](https://mumuki.io/pdep-utn/lessons/744-programacion-funcional-dominar-el-mundo-con-nada)
 
 ### Nuevo e importante!
 * [GIT]():
