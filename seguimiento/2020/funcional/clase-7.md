@@ -31,6 +31,9 @@
 * [Práctica Mumuki - Fold](https://mumuki.io/pdep-utn/lessons/744-programacion-funcional-dominar-el-mundo-con-nada)
 
 ### Nuevo e importante!
-* [GIT]():
-* [GIThub classroom]()
-* [TP Grupal](https://docs.google.com/document/d/1BMppxswUoGSxR6t0jQsh6IFjDWRgBgYIcVsadrceLfc/edit?usp=sharing)
+* [Git - Apunte](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit#heading=h.r9wuhoi4rpgq)
+* [Github classroom - Tarea individual](https://youtu.be/bA1EE9TzBzY)
+* [Github classroom - Tarea grupal](https://youtu.be/GSKq0GF2qbE)
+* [Para traer planteado](https://docs.google.com/document/d/1ZJLz84JEPoEWZ9aVCJRWoHomfscUc04yECqSMOvdVZU/edit)
+* [TP Individual - en 1 semana]()
+* [TP Grupal - en 2 semanas](https://docs.google.com/document/d/1BMppxswUoGSxR6t0jQsh6IFjDWRgBgYIcVsadrceLfc/edit?usp=sharing)
