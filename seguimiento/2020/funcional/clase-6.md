@@ -27,7 +27,7 @@
 
 * [Pattern matching en listas](https://docs.google.com/document/d/11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI/edit#heading=h.rkeb5q1444o5)
 * [Orden superior - Listas: Ver implementación](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit#heading=h.1rnil5ezx59z): _map_, _filter_, _any_, _all_
-* [Práctica: Pattern matching sobre listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/funcional/practica/pattern-matching-listas.md)
+* [Práctica: Pattern matching sobre listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/pattern-matching-listas.md)
 
 ### Nuevo e importante para la semana que viene
 * [Otro apunte de fold](https://docs.google.com/document/d/1jSrU7lVMan4nbHBETGqvO5VpqJI0KXVWtH7fqnVASPU): Si te quedaste con ganas de leer mas.
