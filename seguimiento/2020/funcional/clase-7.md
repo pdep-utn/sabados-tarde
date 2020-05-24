@@ -19,9 +19,9 @@
 * Entrar a la conferencia ya esta el link en el canal #link-clases
 * [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-7.hs)
 * [Presentacion](https://docs.google.com/presentation/d/1oFVJOFY0NQayZ2dPlNA15M708vR54Kb5G0CGWopf27A/)
-* [Video de clase - Repaso]()
-* [Video de clase - Fold]()
-* [Video de clase - Evaluación diferida]()
+* [Video de clase - Repaso](https://drive.google.com/file/d/1H9QP8apuoLTDOsfPY-RgaONAHBjRmXa6/view?usp=sharing)
+* [Video de clase - Fold](https://drive.google.com/open?id=1FAuCJA-uvH2ImwPkzGa-C4PhUnXTPhz9)
+* [Video de clase - Fold + Evaluación diferida](https://drive.google.com/file/d/1Vj7DqjOPj-EKjrD1pKH5W638kIJbXot-/view?usp=sharing)
 
 ## Para hacer después de la clase
 
@@ -32,8 +32,8 @@
 
 ### Nuevo e importante!
 * [Git - Apunte](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit#heading=h.r9wuhoi4rpgq)
-* [Github classroom - Tarea individual](https://youtu.be/bA1EE9TzBzY)
-* [Github classroom - Tarea grupal](https://youtu.be/GSKq0GF2qbE)
-* [Para traer planteado](https://docs.google.com/document/d/1ZJLz84JEPoEWZ9aVCJRWoHomfscUc04yECqSMOvdVZU/edit)
-* [TP Individual - en 1 semana]()
-* [TP Grupal - en 2 semanas](https://docs.google.com/document/d/1BMppxswUoGSxR6t0jQsh6IFjDWRgBgYIcVsadrceLfc/edit?usp=sharing)
+* [Video Github classroom - Tarea individual](https://youtu.be/bA1EE9TzBzY)
+* [Video Github classroom - Tarea grupal](https://youtu.be/GSKq0GF2qbE)
+* [Para traer planteado](https://docs.google.com/document/d/1ZJLz84JEPoEWZ9aVCJRWoHomfscUc04yECqSMOvdVZU/edit) _tal vez y solo tal vez, es parte del TP individual.._ 
+* [TP Individual - 30/5 23.00](https://classroom.github.com/a/x5dRQ6HG)
+* [TP Grupal - 5/6 23.00](https://classroom.github.com/g/1E2PP66F) ¿Qué nombre de team pongo? Pongan: grupo-`nro_grupo`
