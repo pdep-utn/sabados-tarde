@@ -32,6 +32,7 @@
 
 ### Nuevo e importante!
 * [Git - Apunte](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit#heading=h.r9wuhoi4rpgq)
+* [Git - Video](https://www.youtube.com/watch?v=rRKe7l-ZNvM) _pronto una nueva versión_
 * [Video Github classroom - Tarea individual](https://youtu.be/bA1EE9TzBzY)
 * [Video Github classroom - Tarea grupal](https://youtu.be/GSKq0GF2qbE)
 * [Para traer planteado](https://docs.google.com/document/d/1ZJLz84JEPoEWZ9aVCJRWoHomfscUc04yECqSMOvdVZU/edit) _tal vez y solo tal vez, es parte del TP individual.._ 
