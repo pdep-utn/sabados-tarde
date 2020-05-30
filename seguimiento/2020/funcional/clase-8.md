@@ -20,9 +20,9 @@
 * [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-8.hs)
 * [Ejercicio integrador](https://docs.google.com/document/d/1ZJLz84JEPoEWZ9aVCJRWoHomfscUc04yECqSMOvdVZU/edit)
 * [Presentación](https://docs.google.com/presentation/d/1aB3KV-tSNb46U6UcvDwh7i69khg3Hbo6GQxW70OrVTo)
-* [Video de clase - Repaso]()
-* [Video de clase - Currificación]()
-* [Video de clase - Listas por comprensión]()
+* [Video de clase - Repaso](https://drive.google.com/open?id=1smUzufuMvLwsf1tEsUL1u4_9wiD5k_f6)
+* [Video de clase - Quizz](https://drive.google.com/open?id=1vAURwJI_hgqg2Ej_HhQaptABmplxeGKF)
+* [Video de clase - Currificación y listas por comprensión](https://drive.google.com/open?id=1O52gwYio9-DmlJnhBAEalCPRsKqYtNU-)
 * [Practica integradora](https://docs.google.com/document/d/1ZJLz84JEPoEWZ9aVCJRWoHomfscUc04yECqSMOvdVZU)
 
 ## Para hacer después de la clase
