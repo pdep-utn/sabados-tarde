@@ -16,8 +16,9 @@
 * Clase 5 - [Listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-5.md)
 * Clase 6 - [Constructores de listas / Definiciones locales](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-6.md)
 * Clase 7 - [Fold / Evaluación diferida](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-7.md)
-* Clase 7 - [Currificación - Práctica integradora](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-8.md)
+* Clase 8 - [Currificación - Práctica integradora](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-8.md)
 
+<!--
 ## Paradigma Lógico
 
 * Clase 1 - [Predicados, Universo Cerrado, Tipos de Consultas e Inversibilidad](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-1.md)
