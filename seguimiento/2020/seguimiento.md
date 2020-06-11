@@ -1,6 +1,7 @@
 # Seguimiento de clases
 
 ## Administrativo
+* [Cronograma](https://docs.google.com/spreadsheets/d/1e4ZDCRRpuPVpKoDjXCuVya8jYK4_sTieD--WkLjI248/edit#gid=1333189774)
 * [Clase de presentación](https://drive.google.com/file/d/1SYdqIeXrEjVTrnjgXpo1oPg2TUEhwa2e/view)
     * [Presentación utilizada](https://docs.google.com/presentation/d/1UbN-jkF9z7p662EErr4TDK7tCYoawaHQqoVIiyLTdZI/edit?usp=sharing)
 * [Link a Mumuki del curso](https://mumuki.io/pdep-utn/join/BR-gsg)
