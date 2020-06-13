@@ -1,4 +1,4 @@
-# Funcional - Clase 7
+# Funcional - Clase 8
 
 ## ¿Qué vamos a aprender?
 
