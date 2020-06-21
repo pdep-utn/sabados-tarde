@@ -23,7 +23,8 @@
 
 <details>
   <summary>SPOILERSSS!!! No ver si no intentaste antes de hacer el parcial</summary>
-  * [Una posible resolución](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/completo.hs)
+  
+  [Una posible resolución](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/completo.hs)
 </details>
 
 ## Para hacer después de la clase
