@@ -1,9 +1,10 @@
 # Seguimiento de clases
 
 ## Administrativo
+
 * [Cronograma](https://docs.google.com/spreadsheets/d/1e4ZDCRRpuPVpKoDjXCuVya8jYK4_sTieD--WkLjI248/edit#gid=1333189774)
 * [Clase de presentación](https://drive.google.com/file/d/1SYdqIeXrEjVTrnjgXpo1oPg2TUEhwa2e/view)
-    * [Presentación utilizada](https://docs.google.com/presentation/d/1UbN-jkF9z7p662EErr4TDK7tCYoawaHQqoVIiyLTdZI/edit?usp=sharing)
+  * [Presentación utilizada](https://docs.google.com/presentation/d/1UbN-jkF9z7p662EErr4TDK7tCYoawaHQqoVIiyLTdZI/edit?usp=sharing)
 * [Link a Mumuki del curso](https://mumuki.io/pdep-utn/join/BR-gsg)
 * [Link a Discord](https://discord.gg/Vd95JSz)
 * [Formulario Inscripción a la planilla](https://docs.google.com/forms/d/1HT3MManKPJX8YFwDXaZf-JHRIlYrGxK3kaI3tN_9Y6A)
@@ -21,12 +22,16 @@
 * Clase 9 - [Currificación - Práctica integradora](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-9.md)
 * Clase 10 - [Simulacro parcial](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-10.md)
 
+* [Formulario parcial](https://docs.google.com/forms/d/e/1FAIpQLSfiP5I7ero15UALTziz8R-Q33n0s5AsbMDLGUDOqoOvygjlJA/viewform)
+
+## Paradigma Lógico
+
+* Clase 1 - [Predicados, Universo Cerrado, Tipos de Consultas e Inversibilidad](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-1.md)
+
 
 <details>
   <summary>Próximamente - Puede cambiar!!</summary>
-    ## Paradigma Lógico
 
-    * Clase 1 - [Predicados, Universo Cerrado, Tipos de Consultas e Inversibilidad](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-1.md)
     * Clase 2 - [not/2, forall/2](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-2.md)
     * Clase 3 - [Tipos complejos - Functores / Unificación](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-3.md)
     * Clase 4 - [Tipos complejos - Listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-4.md)
