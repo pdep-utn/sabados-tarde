@@ -1,4 +1,4 @@
-# Logico - Clase 1
+# Lógico - Clase 1
 
 ## ¿Qué vamos a aprender?
 
@@ -19,5 +19,5 @@
 
 ## Para hacer después de la clase
 
-* [Guía teorica - Mumuki - Lección 1 (opcional)](https://mumuki.io/pdep-utn/lessons/699-programacion-logica-hechos-y-reglas)
+* [Guía teórica - Mumuki - Lección 1 (opcional)](https://mumuki.io/pdep-utn/lessons/699-programacion-logica-hechos-y-reglas)
 * [Guía práctica - Mumuki - Lección 2](https://mumuki.io/pdep-utn/lessons/700-programacion-logica-practica-hechos-y-reglas)

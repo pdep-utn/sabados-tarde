@@ -1,19 +1,20 @@
-# Logico - Clase 2
+# Lógico - Clase 2
 
-## Qué vimos
+## ¿Qué vamos a aprender?
 
-* `forall/2` - Para verificar si todos los que cumplen una consulta además cumplen otra.
-* `not/2` - Para verificar si no se cumple una consulta.
-* Inversibilidad - Analizar si un predicado si puede consultar con variables libres. Cuando se puede consultar en todos sus parametros con variables libres, se dice que el predicado es totalmente inversible.
+* Repaso general
+* `not/1` - Para verificar si no se cumple una consulta.
+  * Y aparecen los problemas con la inversibilidad.
+* `forall/2` Para verificar todos los individuos que cumplen la primer consulta además cumplan la segunda
+* Análisis de inversibilidad
 
-## Lecturas recomendados
+## Para hacer durante la clase o ver mas tarde
 
-* [Guía Teórica Mumuki - Leccion 3 hasta ejercicio 9](https://mumuki.io/central/lessons/53-programacion-logica-negacion-y-cuantificacion)
-* [Apunte - Hasta unidad 5](https://docs.google.com/document/d/1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I)
+* [Video de la clase - Parte 1](https://drive.google.com/file/d/1wMIIH5pCeO4iQluT6iSDazX17t940FIN/view?usp=sharing)
+* [Video de la clase - Parte 2](https://drive.google.com/file/d/1_kAqFEyKEcTtmlU9kBhVBaVKI_qyYdpf/view?usp=sharing)
+* [Presentación de la clase](https://docs.google.com/presentation/d/1RV1mpnZbak9LyJJeBQtd0xJVcBpUXqT1uoj3gQGlodk/edit?usp=sharing)
+* [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-2.hs)
 
-## Ejercitación recomendada
+## Para hacer después de la clase
 
-* [Terminar Guía teorica - Mumuki - Lección 3](https://mumuki.io/central/lessons/53-programacion-logica-negacion-y-cuantificacion)
-* [Guía práctica - Mumuki - Lección 4](https://mumuki.io/central/lessons/49-programacion-logica-practica-negacion-y-cuantificacion)
-
-## Tarea clase siguiente
+* [Link de classroom](https://classroom.github.com/a/WNkWfkIF)
