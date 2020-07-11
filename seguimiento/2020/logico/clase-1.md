@@ -1,23 +1,23 @@
 # Logico - Clase 1
 
-## Qué vimos
+## ¿Qué vamos a aprender?
 
-* Base de Conocimiento - Motor de Inferencia
-* Predicados - Clausulas - Reglas y Hechos
-* AND y OR
-* Universo Cerrado
-* Consultas Existenciales vs Unitarias
-* Inversibilidad
+* Bases del paradigma lógico
+  * Base de conocimiento
+  * Predicados
+    * compuestos por `n` clausulas
+      * Hecho
+      * Regla
+  * Universo Cerrado
+  * Consultas Existenciales vs Individuales
+  * Inversibilidad
 
-## Lecturas recomendados
+## Para hacer durante la clase o ver mas tarde
 
-* [Apunte](https://docs.google.com/document/d/1fTYHcILOkEsfTW5DOcghDSau3pQ6Q2AXlM0iwkB5L4E/edit)
-* [Apunte - excepto unidad 5](https://docs.google.com/document/d/1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss/edit#heading=h.8f89l8ldb6f9)
+* [Video - Introducción a lógico](https://www.youtube.com/watch?v=4M-lzIOhVbI)
+* [Encuesta de seguimiento](https://docs.google.com/forms/d/1foBPqn6wrq0tzVrj7ezvGIFMnwjQHWfGFf-CM7N4ZAU/viewform)
 
-## Ejercitación recomendada
+## Para hacer después de la clase
 
-* [Guía teorica - Mumuki - Lección 1](https://mumuki.io/central/lessons/1-programacion-logica-hechos-y-reglas)
-* [Guía práctica - Mumuki - Lección 2](https://mumuki.io/central/lessons/2-programacion-logica-practica-hechos-y-reglas)
-* [Guía práctica - Mumuki - Lección 6 - Clases [1,4] [6,12]](https://mumuki.io/central/lessons/34-programacion-logica-inversibilidad)
-
-## Tarea clase siguiente
+* [Guía teorica - Mumuki - Lección 1 (opcional)](https://mumuki.io/pdep-utn/lessons/699-programacion-logica-hechos-y-reglas)
+* [Guía práctica - Mumuki - Lección 2](https://mumuki.io/pdep-utn/lessons/700-programacion-logica-practica-hechos-y-reglas)

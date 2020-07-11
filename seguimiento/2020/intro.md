@@ -1,10 +1,10 @@
 # Introducción a la materia
 
-## Qué vamos a aprender?
+## ¿Qué vamos a aprender?
 
-* Qué es un paradigma?
-* Qué es la declaratividad?
-* Qué es la expresividad?
+* ¿Qué es un paradigma?
+* ¿Qué es la declaratividad?
+* ¿Qué es la expresividad?
 * Efecto colateral
 * Asignación destructiva
 * Paradigma vs Lenguaje

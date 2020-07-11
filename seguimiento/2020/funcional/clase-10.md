@@ -19,7 +19,7 @@
   * [Link Simulacro](https://classroom.github.com/a/lR3iD-JR)
   * [Reglas - Si bien estan en la assignment estas son las reglas](https://docs.google.com/document/d/13OBHwqe5uoDRLnVfM2VU9ogupkJQHpLA0wSTlN57x8g)
   * [Posible forma de encarar el exámen](https://drive.google.com/file/d/1F6tWEs2Zsyna5EQmSFRv2REJFvyF6ZK1/view?usp=sharing)
-  * [Lo que hicimos en clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-10.hs)
+  * [Lo que hicimos en clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase10.hs)
 
 <details>
   <summary>SPOILERSSS!!! No ver si no intentaste antes de hacer el parcial</summary>
