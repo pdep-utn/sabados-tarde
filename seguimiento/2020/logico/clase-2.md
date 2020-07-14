@@ -13,7 +13,7 @@
 * [Video de la clase - Parte 1](https://drive.google.com/file/d/1wMIIH5pCeO4iQluT6iSDazX17t940FIN/view?usp=sharing)
 * [Video de la clase - Parte 2](https://drive.google.com/file/d/1_kAqFEyKEcTtmlU9kBhVBaVKI_qyYdpf/view?usp=sharing)
 * [Presentación de la clase](https://docs.google.com/presentation/d/1RV1mpnZbak9LyJJeBQtd0xJVcBpUXqT1uoj3gQGlodk/edit?usp=sharing)
-* [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-2.hs)
+* [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/practica/clase-2.pl)
 
 ## Para hacer después de la clase
 
