@@ -1,4 +1,4 @@
-# Lógico - Clase 2
+# Lógico - Clase 3
 
 ## ¿Qué vamos a aprender?
 
