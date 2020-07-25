@@ -29,11 +29,11 @@
 * Clase 1 - [Predicados, Universo Cerrado, Tipos de Consultas e Inversibilidad](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-1.md)
 * Clase 2 - [not/2, forall/2](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-2.md)
 * Clase 3 - [Tipos complejos - Functores / Aritmética](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-3.md)
+* Clase 4 - [Listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-4.md)
 
 <details>
   <summary>Próximamente - Puede cambiar!!</summary>
 
-    * Clase 4 - [Tipos complejos - Listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-4.md)
     * Clase 5 - [Recursividad](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-5.md)
 
     ## Paradigma de Objetos
