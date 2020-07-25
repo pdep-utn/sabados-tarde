@@ -11,7 +11,7 @@
 * [Video de la clase - Parte 2](https://drive.google.com/file/d/1cZEW6evmKNOXu2BU_ScsICftwlKecuMg/view?usp=sharing)
 * [Video de la clase - Parte 3](https://drive.google.com/file/d/1f1kEfpRTm1QRplk7XFZxMRPXrv9jhM4l/view?usp=sharing)
 * [Presentación de la clase](https://docs.google.com/presentation/d/10IupH1_Sf6Cyxr-HszMzWz5FDl5_mV4JcLBn4EbuMhc/edit?usp=drive_web&ouid=105127262669791671578)
-* [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/practica/clase-3.pl)
+* [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/practica/clase-3.pl)
 
 ### Lecturas recomendados
 
