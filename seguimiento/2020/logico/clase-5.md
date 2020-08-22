@@ -8,8 +8,8 @@
 ## Para hacer durante la clase o ver mas tarde
 
 * [Video de la clase - Parte 1](https://drive.google.com/file/d/1yBmawAnaB45wqa9pJC1_sxnB7gzTW8F4/view?usp=sharing)
-* [Video de la clase - Parte 2](https://drive.google.com/file/d/1XmD4-zT_c3ay7O_5F59wvX4FpapzwwIi/view?usp=sharing)
-* [Video de la clase - Parte 3](https://drive.google.com/file/d/1yBmawAnaB45wqa9pJC1_sxnB7gzTW8F4/view?usp=sharing)
+* [Video de la clase - Parte 2](https://drive.google.com/file/d/14T2n8TfDUbXbZ8P9i-03R3NN-2K_q9Pt/view?usp=sharing)
+* [Video de la clase - Parte 3](https://drive.google.com/file/d/1XmD4-zT_c3ay7O_5F59wvX4FpapzwwIi/view?usp=sharing)
 * [Presentación de la clase](https://docs.google.com/presentation/d/1pM2jFWHSqFyJmP4txSfVAQ9EgXHavFhdN3qgfl5m7Kk/edit?usp=sharing)
 * [Código de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/practica/clase-5.pl)
 
