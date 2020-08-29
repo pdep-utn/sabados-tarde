@@ -88,19 +88,43 @@ estaAtrapado(Jugador):-
 incurable(Ciudad):-
     not(puedeCurarCiudad(_, Ciudad)).
 
-erradicacionTotal(Ciudad):-
+
+%%
+%% Saber si las enfermedades de una ciudad pueden ser erradicadas. 
+%$ Esto se da cuando se puede curar la ciudad en un turno y además tenemos todos los requisitos necesarios para prevenir un nuevo brote. 
+%%     Las bacterias no necesitan requisitos extras.
+%%     Los virus piden tener una tarjeta especial, que puede tener cualquier jugador.
+%%     Las plagas, necesitan que no haya otra plaga del mismo nombre en otra ciudad.
+
+erradicarEnfermedades(Ciudad):-
     puedeCurarCiudad(_, Ciudad),
-    forall(infeccion(Infeccion, Ciudad), esPrevenibleBrote(Ciudad, Infeccion)).
+    forall(infeccion(Ciudad, Infeccion), puedeErradicarse(Ciudad, Infeccion)).
 
-esPrevenibleBrote(_, bacteria(_)).
-esPrevenibleBrote(_, virus(_, Tarjeta)):-tarjeta(_, Tarjeta).
-esPrevenibleBrote(Ciudad, plaga(Nombre, _)):-infeccion(plaga(Nombre, _), OtraCiudad), Ciudad \= OtraCiudad.
+puedeErradicarse(_, bacteria(_)).
+puedeErradicarse(_, virus(_, Tarjeta)):-tarjeta(_, Tarjeta).
+puedeErradicarse(Ciudad, plaga(Nombre, _)):-
+    not((
+        infeccion(OtraCiudad, plaga(Nombre, _)),
+        Ciudad \= OtraCiudad
+    )).
 
-accionesNecesarias(Ciudad, Ciudad, 0).
-accionesNecesarias(Ciudad, OtraCiudad, 1):-conectada(Ciudad, OtraCiudad).
-accionesNecesarias(Ciudad, OtraCiudad, N):- 
-    conectada(Ciudad, CiudadIntermedia), accionesNecesarias(CiudadIntermedia, OtraCiudad, DistanciaIntermedia), N is DistanciaIntermedia + 1.
+%% Cuántas acciones son necesarios para llegar de una ciudad a otra a 
+%% través de una conexión (tener en cuenta que se puede pasar por otras ciudades en el medio). 
 
-accionesNecesariasParaIr(Jugador, Destino, Acciones):-
-    ubicacion(Jugador, Origen), accionesNecesarias(Origen, Destino, Acciones).
-accionesNecesarias(Jugador, Destino, 1):-tarjeta(Jugador, ciudad(Destino)).
+accionesDeViaje(Ciudad, Ciudad, 0).
+accionesDeViaje(Ciudad, OtraCiudad, 1):-conectada(Ciudad, OtraCiudad).
+accionesDeViaje(Ciudad, OtraCiudad, N):-
+    conectada(Ciudad, CiudadConectada),
+    accionesDeViaje(CiudadConectada, OtraCiudad, AccionesDesdeMiConexion),
+    N is 1 + AccionesDesdeMiConexion.
+
+%%Cuántas acciones son necesarios para que un personaje pueda ir de una ciudad a otra, puede necesitar N acciones si 
+%% voy a través de conexiones, o si el personaje tiene la tarjeta de ciudad puede ir en una única acción
+
+accionesParaViajar(Personaje, Destino, Acciones):-
+    ubicacion(Personaje, Origen),
+    accionesDeViaje(Origen, Destino, Acciones).
+
+accionesParaViajar(Personaje, Destino, 1):-
+    personaje(Personaje, _),
+    tarjeta(Personaje, ciudad(Destino)).
