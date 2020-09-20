@@ -36,12 +36,12 @@
 ## Paradigma de Objetos
 
 * Clase 1 - [Introducción a objetos - Envio de mensajes - Autoreferencia - Atributos](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-1.md)
-
 * Clase 2 - [Polimorfismo - Testing](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-2.md)
+* Clase 3 - [Práctica!!](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-3.md)
+
 
 <details>
   <summary>Próximamente - Puede cambiar!!</summary>
-    * Clase 3 - [Colecciones - Testing](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-3.md)
     * Clase 4 - [Clases](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-4.md)
     * Clase 5 - [Diagrama de clases - Herencia](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-5.md)
     * Clase 6 - [Repaso - Manejo de errores](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-6.md)

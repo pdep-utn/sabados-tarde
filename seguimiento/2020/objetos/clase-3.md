@@ -1,26 +1,20 @@
 # Objetos - Clase 3
 
-## Qué vimos
+## Hoy practicamos
 
-* Repaso polimorfismo
-* Colecciones
-* Testing
-  * [Ejemplo de clase](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/ejemplos/clase-3.wtest) 
+Hoy vamos a tener clase virtual++ ¿que significa? Qué la idea de hoy es que la aprovechen para practicar e ir haciendo el TP Grupal que tiene fecha de entrega el domingo de la semana que viene (27/9).
 
-## Lecturas recomendados
+Pero antes de hablar del TP, cree un canal #sigo-cursando para que me digan los que estan cursando activamente, así empiezo a depurar la lista
 
-* [Objetos bloque](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE#heading=h.2nw0n2jbpdi2)
-* [Colecciones](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE#heading=h.iehg2xjvol3w)
-* [Testing unitario](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY)
+Tema TP
 
-## Material extra
+Cosas a tener en cuenta del TP Grupal. Vamos a hacer grupos mas chicos (2 personas). 
+Además como quiero que empiecen a crear rápido su repo y para no limitarlos a que les asigne un número de grupo, van a tener que elegir un nombre de grupo :smile:  Sean creativos :paintbrush:
 
-* [Polimorfismo](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU)
-* [Objetos anónimos](https://docs.google.com/document/d/1j2VoBNczPsMXrIjJ4tycYU982CZahReTvzkWS9TTKV0)
+Así que necesito que me informen quienes componen su grupo y cual es el nombre que eligieron por el canal de Discord #informar-grupos-objetos.
 
-## Tarea clase siguiente
+Este es el link al classroom: https://classroom.github.com/g/rT48tBei. El enunciado aclara que hay tareas especificas para cada integrante, así que también digannos quien es el integrante 1 y quién el 2.
 
-* Entrega #1 TP Objetos
-    - Enviar repositorio de GIT a su ayudante
-    - Fecha de entrega 27/09
-    - [Enunciado](https://docs.google.com/document/d/1QnDWyX5tNT2SlJQGXNv7gTrSEnKb8PTV0VaSMr4SWLc/edit?usp=sharing)
+También cree un par de salas de voz/video por si quieren hablar con su compañero de grupo hoy, por ahora usen las que esten libres, después les voy a cambiar de nombre al que uds me dijeron.
+
+Cualquier duda vayan dejandola por #consultas
