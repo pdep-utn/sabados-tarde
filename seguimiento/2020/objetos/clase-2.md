@@ -1,19 +1,23 @@
 # Objetos - Clase 2
 
-## Qué vimos
+## ¿Qué vamos a aprender?
 
-* Polimorfismo! Si, de nuevo.. objetos que usan a otros [como si fueran iguales](https://i.kym-cdn.com/entries/icons/mobile/000/023/397/C-658VsXoAo3ovC.jpg), pero no.
-* GIT: Herramienta para compartir código. Hicimos el ejercicio de [Tom y Jerry](https://mumuki.io/wollok/exercises/2688-programacion-con-objetos-practica-objetos-y-mensajes-tom-y-jerry) y lo subimos a un repositorio propio.
+* Seguimos practicando como modelar con objetos
+* Testing
+
+## Para hacer durante la clase o ver mas tarde
+
+* [Presentación utilizada](https://docs.google.com/presentation/d/1-iH2HtVDO66N4BetcNG8oJVuuNseMMx8Qmb0YC1WY-Y/edit?usp=sharing)
+* [Video - Clase - Parte 1](https://www.youtube.com/watch?v=xygW6rRQRZE)
+* [Video - Clase - Parte 2](https://www.youtube.com/watch?v=Z0cpW7uy9Ok)
+* [Video - Clase - Parte 3](https://www.youtube.com/watch?v=j8uzGdvKxbs)
+* [Código utilizado](https://github.com/pdep-st/rolando-repo)
+  * [Ejercicio](https://docs.google.com/document/d/1Gc1IvkmmxOPEbeI3-yPXGtebC-EbXh0zQIq7du_cSnk/edit)
 
 ## Lecturas recomendados
 
-* [Polimorfismo](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU)
-* [Apunte de GIT](https://docs.google.com/document/d/147cqUY86wWVoJ86Ce0NoX1R78CwoCOGZtF7RugUvzFg)
+* [Testing](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit)
 
-## Ejercitación recomendada
-
-* [Ejercicio 3 - Sueldo de pepe](https://docs.google.com/document/d/1DQNuJwO3m6o_0-31tld94eJKJSQQ2TsjqBBY_rOVho4)
+## Para hacer después de la clase
 
 ## Tarea clase siguiente
-
-* Hacer la [entrega #0 del TP](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/trabajos/tp-0.md)
