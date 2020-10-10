@@ -38,12 +38,12 @@
 * Clase 1 - [Introducción a objetos - Envio de mensajes - Autoreferencia - Atributos](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-1.md)
 * Clase 2 - [Polimorfismo - Testing](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-2.md)
 * Clase 3 - [Práctica!!](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-3.md)
+* Clase 4 - [Objetos anónimos - Clases](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-4.md)
+* Clase 5 - [Manejo de errores](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-5.md)
 
 
 <details>
   <summary>Próximamente - Puede cambiar!!</summary>
-    * Clase 4 - [Clases](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-4.md)
-    * Clase 5 - [Diagrama de clases - Herencia](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-5.md)
     * Clase 6 - [Repaso - Manejo de errores](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-6.md)
     * Clase 7 - [Herencia vs Composición - Simulacro(parte1)](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-7.md)
     * Clase 8 - [Simulacro(parte 2) - Entrega TP](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-8.md)
