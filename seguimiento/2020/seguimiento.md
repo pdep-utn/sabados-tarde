@@ -33,6 +33,8 @@
 * Clase 5 - [Recursividad + Pattern Matching de listas](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-5.md)
 * Clase 6 - [Code Smells - Repaso](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/clase-6.md)
 
+* [Posible solución parcial](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/logico/practica/parcial.pl)
+
 ## Paradigma de Objetos
 
 * Clase 1 - [Introducción a objetos - Envio de mensajes - Autoreferencia - Atributos](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-1.md)

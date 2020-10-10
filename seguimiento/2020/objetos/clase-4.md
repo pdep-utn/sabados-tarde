@@ -13,6 +13,7 @@
 
 * [Video de la clase - Parte 1](https://youtu.be/enFOPacD67c)
 * [Video de la clase - Parte 2](https://youtu.be/rMrj4M_n25c)
+* [Ejemplo visto en clase](https://github.com/pdep-st/ejemplo-productos)
 
 ## Lecturas recomendados
 

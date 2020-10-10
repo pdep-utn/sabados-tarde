@@ -10,6 +10,7 @@
 
 * [Video de la clase - Parte 1](https://youtu.be/TgzG9thI_Xw)
 * [Video de la clase - Parte 2](https://youtu.be/QH6-aKBd29E)
+* [Ejemplo visto en clase](https://github.com/pdep-st/ejemplo-monedero)
 
 ## Lecturas recomendados
 
