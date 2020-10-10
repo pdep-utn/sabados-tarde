@@ -7,6 +7,7 @@
 * Well Known Objects (WKO), son los objetos globales que veniamos usando.
 * Objetos anónimos son objetos que no tienen un nombre bien conocido y por ejemplo lo usamos para testear objetos que conocemos su interfaz pero aún no los tenemos implementados.
 * [Ejemplo](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2019/objetos/ejemplos/clase-4) de polimorfismo con clases y WKO's
+* Idea de interfaz como contrato que tienen que entender distintos objetos
 
 ## Para hacer durante la clase o ver mas tarde
 

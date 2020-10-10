@@ -20,6 +20,7 @@
 * [Apunte teorico - Referencias. Estado. Compartir objetos. Identidad](https://docs.google.com/document/d/14092iRsXDXih8-q_0UEXIGRSQmGtxL9pay1VXX4ceJg)
 * [Polimorfismo](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU)
 * [Objetos básicos](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE)
+* [Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit)
 
 ## Para hacer después de la clase
 
