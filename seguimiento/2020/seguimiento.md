@@ -43,16 +43,4 @@
 * Clase 4 - [Objetos anónimos - Clases](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-4.md)
 * Clase 5 - [Manejo de errores](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-5.md)
 * Clase 6 - [Herencia](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-6.md)
-
-
-<details>
-  <summary>Próximamente - Puede cambiar!!</summary>
-    * Clase 7 - [Herencia vs Composición - Simulacro(parte1)](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-7.md)
-    * Clase 8 - [Simulacro(parte 2) - Entrega TP](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-8.md)
-    * Clase 9 - [Simulacro parcial](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-9.md)
-
-    # Integración de conceptos
-    * Clase 1 - [Repaso conceptos transversales - Práctica final](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/integracion/clase-1.md)
-    * Clase 2 - [Presentación TP Integrador - Cierre](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/integracion/clase-2.md)
-
-</details>
+* Clase 7 - [Herencia vs Composición - Listas reloaded](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-7.md)
