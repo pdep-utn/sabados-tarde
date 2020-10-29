@@ -12,6 +12,7 @@
 * [Video de la clase - Parte 2](https://youtu.be/7mBhnPpRyLI)
 * [Presentacion](https://docs.google.com/presentation/d/1-1gWsa2NdRKKMMzrX-t_tGHdMjwy847e6jxniszLoKw/edit#slide=id.g8749d6787e_0_911)
 * [Ejercicio visto en clase - Dr Casa - Temporada 2](https://docs.google.com/document/d/12Zz18WFOv4hVYSCtKFg4TPpQY6xi9zoDXtTYRCGnOL4)
+  * [Solución](https://github.com/pdep-st/drcasa-herencia)
 
 ## Lecturas recomendados
 
