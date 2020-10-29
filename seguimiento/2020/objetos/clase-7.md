@@ -11,6 +11,7 @@
 * [Video de la clase - Parte 2](https://youtu.be/BVHj9QX9Boo)
 * [Presentación](https://docs.google.com/presentation/d/10xZW_HxyzHYeB8IENQ2PrkEG3RA3BU0RT17L9OamHoQ/edit?usp=sharing)
 * [Ejercicio visto en clase - Dr Casa - Composición](https://docs.google.com/document/d/12Zz18WFOv4hVYSCtKFg4TPpQY6xi9zoDXtTYRCGnOL4) Planteamos como resolver la parte de los médicos para que puedan cambiar su comportamiento en base al puesto que tengan.
+  * [Solución](https://github.com/pdep-st/dr-casa-composicion)
 
 ## Lecturas recomendados
 
