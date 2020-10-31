@@ -44,3 +44,4 @@
 * Clase 5 - [Manejo de errores](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-5.md)
 * Clase 6 - [Herencia](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-6.md)
 * Clase 7 - [Herencia vs Composición - Listas reloaded](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-7.md)
+* Clase 8 - [Repaso + Identidad vs igualdad](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/objetos/clase-8.md)
