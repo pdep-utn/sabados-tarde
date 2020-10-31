@@ -1,10 +1,20 @@
 # Objetos - Clase 8
 
-## Qué vimos
+## ¿Qué vamos a hacer?
 
-* **Simulacro - resolución** - Hicimos una resolución en grupo del parcial de Jaloguin
-* **Entrega TP Grupal**
+* **Repaso de conceptos vistos** - un repaso de los conceptos que estuvimos viendo.
+* **Igualdad vs identidad**
 
-## Ejercitación en clase
+## Para hacer durante la clase o ver mas tarde
 
-* [Enunciado - Jaloguin](https://docs.google.com/document/d/1NatqCwBLywEEEHzFoPRjIFnMbPo36go7BSbIFayNPUA/edit#heading=h.yrit374qconq) 
+* [Video de la clase - Parte 1]()
+* [Video de la clase - Parte 2]()
+* [Ejercicio method lookup](https://docs.google.com/document/d/1ODKQ9r140eglq22c-cO5W9pF6D25XhsHBzSbjvaupCs/edit#)
+  * [Solucion](https://docs.google.com/document/d/1anH89rNNdikQVKLuMrMqsk0daqodltOhOawMmSIEKP0/edit#)
+
+## Lecturas recomendados
+
+* [Igualdad vs identidad](https://docs.google.com/document/d/18QtQCs91tXX1e4kpEPs4sLU-TRJsxcoEKVngMDf278c/edit)
+
+## Para hacer después de la clase
+* [TP Parte 2](https://docs.google.com/document/d/13MraA9tJqw2BBS95Qwdht_Qqf1ug1es0jsLIWcGzl0k/edit)
