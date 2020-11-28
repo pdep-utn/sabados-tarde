@@ -2,8 +2,8 @@
 
 ## Material utilizado
 
-* [Video del la clase (Parte 1)](https://youtu.be/QseJBGSADeE)
-* [Video del la clase (Parte 2)](https://youtu.be/p9F0IeyojgA) 
+* [Video de la clase (Parte 1)](https://youtu.be/QseJBGSADeE)
+* [Video de la clase (Parte 2)](https://youtu.be/p9F0IeyojgA) 
 * [Listado conceptos revisados](https://docs.google.com/spreadsheets/d/1kRRy_eqi-Vdo1B56A7rJpFw7NDwwf5Bh5VTesCgbR7M/edit?usp=sharing)
 * [Ejemplos de tipado](https://docs.google.com/document/d/1CMIJSB9zsQNMzyG4LCIiv1tw9y9fOPTBqMk5Edns2no/edit)
 * [Ejemplo pattern matching - Scala](https://docs.scala-lang.org/tour/pattern-matching.html)
