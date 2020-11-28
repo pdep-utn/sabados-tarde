@@ -9,9 +9,14 @@
 * [Link a Discord](https://discord.gg/Vd95JSz)
 * [Formulario Inscripción a la planilla](https://docs.google.com/forms/d/1HT3MManKPJX8YFwDXaZf-JHRIlYrGxK3kaI3tN_9Y6A)
 
+## Conceptos generales
+
+* [Introducción](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/intro.md)
+* [Clase repaso - Esquemas de tipado](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/integracion.md)
+
 ## Paradigma Funcional
 
-* Clase 1 - [Introducción](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/intro.md) e [introducción a funcional](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-1.md) 
+* Clase 1 - [Introducción a funcional](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-1.md) 
 * Clase 2 - [Funciones partidas y pattern matching - Tipos y clases de tipos](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-2.md)
 * Clase 3 - [Tuplas - Aplicación Parcial](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-3.md)
 * Clase 4 - [Aplicación Parcial - Tipos compuestos](https://github.com/pdep-utn/sabados-tarde/blob/master/seguimiento/2020/funcional/clase-4.md)
